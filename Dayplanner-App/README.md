@@ -1,6 +1,6 @@
 <h1>Day Planner APP</h1>
 
-<h1>Plan your day, add activities, remove past acivities or modify existing one with Dayplanner App</h1>
+<h1>Plan your day, add activities, remove past acivities or modify existing ones with Dayplanner App</h1>
 
 <h1>Deployment</h1>
 <p> </p>
