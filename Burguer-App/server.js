@@ -23,7 +23,7 @@ app.get("/", function(req, res) {
       // Test it
       // return res.send(data);
   
-      res.render("index", { tasks: data });
+      res.render("index", { burAdd: data });
     });
   });
 app.listen(PORT, () => {
