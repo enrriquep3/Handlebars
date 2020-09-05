@@ -5,11 +5,10 @@
 <h3>Deployment</h3>
 
   
-  ![](images/quotes.png)
   
-  ![](images/quotes1.png)
+  ![](images/Quotes1.png)
 
-  ![](images/quotes2.png)
+  ![](images/Quotes2.png)
   
 
 <h1>Built With</h1>
